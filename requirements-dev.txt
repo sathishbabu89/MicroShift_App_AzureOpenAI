@@ -1,0 +1,25 @@
+# Include main dependencies
+-r requirements.txt
+
+# Linting
+flake8>=6.1.0
+
+# Code formatting
+black>=23.3.0
+isort>=5.12.0
+
+# Type checking
+mypy>=1.5.0
+
+# Testing
+pytest>=7.4.0
+pytest-mock>=3.11.1
+
+# Streamlit testing utilities (optional)
+streamlit-testing>=0.2.0  # If you plan to write E2E tests for your UI
+
+# Environment variable management/testing
+python-dotenv>=1.0.0
+
+# Coverage (optional)
+coverage>=7.2.0
