@@ -126,7 +126,7 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ## 📄 License
 
-MIT License © 2025 \[Your Name]
+MIT License © 2025 \[Sathish Kumar]
 
 ---
 
