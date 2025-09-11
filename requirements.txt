@@ -1,0 +1,12 @@
+# Core dependencies
+openai>=1.0.0
+langgraph>=0.0.20
+python-dotenv>=1.0.0
+streamlit>=1.25.0
+
+# Visualization libraries
+matplotlib>=3.7.0
+networkx>=3.1
+
+# Optional: useful for strict typing and packaging
+typing-extensions>=4.5.0
