@@ -1,5 +1,6 @@
 # Core dependencies
 openai>=1.0.0
+AzureOpenAI
 langgraph>=0.0.20
 python-dotenv>=1.0.0
 streamlit>=1.25.0
